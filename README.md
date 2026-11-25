@@ -1,16 +1,17 @@
-## Hi there 👋
+# Russet Supply
 
-<!--
-**russetsupply/russetsupply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interactive React, TypeScript, and Framer Motion code components & AI-ready templates built for [Framer](https://russetsupply.com).
 
-Here are some ideas to get you started:
+### What We Build
+- **Production Framer Components:** Copy-paste `.tsx` code components with native property controls, smooth physics, and clean static rendering.
+- **Agent-Ready Templates:** Structured design systems and built-in Framer Skills for instant brand customization.
+- **Open-Source Tooling:** Lightweight utilities and workflow scripts for Framer developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack & Ecosystem
+![React](https://img.shields.io/badge/React-0E0D0E?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0E0D0E?style=flat-square&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0E0D0E?style=flat-square&logo=framer&logoColor=white)
+
+### Links
+- **Component Vault & Templates:** [russetsupply.com](https://russetsupply.com)
+- **X (Twitter):** [@russetsupply](https://x.com/russetsupply)
